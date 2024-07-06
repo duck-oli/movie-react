@@ -2,7 +2,6 @@
   "name": "06",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://duck-oli.github.io/movie-react.git",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
@@ -27,6 +26,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
+  "homepage": "https://duck-oli.github.io/movie-react",
   "eslintConfig": {
     "extends": [
       "react-app",
